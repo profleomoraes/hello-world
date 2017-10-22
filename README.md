@@ -1,2 +1,4 @@
 # hello-world
-Apenas um repositório
+
+Descrição rápida sobre mim: Atualmente como Database Developer
+
